@@ -1,0 +1,88 @@
+#main{
+    width: 100%;
+    border: 0;
+    margin: 0;
+}
+.main1{
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+.section1{
+    width: 100%;
+display: flex;
+}
+.div1{
+    width: 30%;
+    padding: 1px;
+}
+.bts1{
+    color: white;
+    background-color: brown;
+}
+.bts2{
+    color: white;
+    background-color: brown;
+}
+.div2{
+    width: 40%;
+    padding: 1px;
+    font-size: x-large;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+border-bottom:none;
+}
+ul{
+    display:flex;
+    color: black;
+}
+li{
+    padding: 10px;
+list-style-type: none;
+}
+.section2{
+    width: 100%;
+    display: flex;
+}
+.flo1{
+    width: 25%;
+    padding: 10px;
+}
+.section3{
+    width: 100%;
+    display: flex;
+}
+.flo3{
+width: 30%;
+padding: 10px;
+}
+.flo4{
+    width: 40%;
+    padding: 20px;
+}
+.flo5{
+    width: 30%;
+    padding: 10px;
+}
+.section4{
+  width: 100%;  
+display: flex;
+}
+.flo6{
+    width: 30%;
+    padding: 10px;
+}
+.flo7{
+    width: 40%;
+padding: 10px;
+}
+.flo8{
+    width: 30%;
+    padding: 10px;
+}
+img{
+    border-radius: 25px;
+}

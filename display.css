@@ -1,0 +1,72 @@
+#main{
+    padding: 0;
+    margin: 0;
+    width: 10px;
+background-image: url('https://m.media-amazon.com/images/I/71AiK-6DX3L._SR210,210_.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+header{
+    display: flex;
+    margin: 10px;
+    padding: 1px;
+    
+}
+
+
+button{
+    border-radius: 20px;
+    color: white;
+    background-color: lightcoral;
+}
+.btn1{
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    position: absolute;
+    top: 0%;
+    right: 10%;
+    background-color: red;
+    font-size: medium;
+}
+.section{
+    display: flex;
+    width: 100%;
+
+}
+nav{
+    width: 400%;
+background-color:cornflowerblue;
+padding: 20PX;
+}
+ul{
+    display: flex;
+    width: auto;
+}
+li{
+    list-style-type:none;
+    padding: 10px;
+    margin: 15px;
+    
+}
+section{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+  
+}
+.alt1{
+    padding: 10px;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 1px;
+    border-radius: 20px;
+}
+.al1{
+gap: 10px;
+}
+img{
+    border-radius: 10px;
+}
